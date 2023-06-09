@@ -24,7 +24,8 @@ Fitness App API
 - Fetch Number of Workout / Exercise Performed and Total Duration
 
 (You Can sort the data by category,by age group, by duration, by purpose, by performed count. in ascending or descending order)
-(API DOCS)
+
+## API DOCS
 ```bash
 # API Docs
 http://localhost:3000/api
